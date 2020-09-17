@@ -1,0 +1,11 @@
+9fa080ee6917f71161069b93347a11569578b8e4 commit refs/heads/c
+80d0b43fa2b7c0666a9f61c9a7eb6ca0680fbb75 commit refs/heads/c#
+633a913fe09e7c6644d5db16c7617f06d51d04b2 commit refs/heads/c++
+7b087508c2c416ddf528de944f2a97381289d629 commit refs/heads/clipper
+8811e336d3399cf28a49ffa788fa683ec668bf6f commit refs/heads/html
+5acd9a4adab5ba4f2edb958b431c03cd14844ee3 commit refs/heads/java
+9a3af1f94cd1abe70dab36d4518048b1bf65704d commit refs/heads/javascript
+b24d19728542fc83aff00e86c2538940e5a5a21f commit refs/heads/jquery
+3e122e9f1ca147b0cf4f7c9c6188670f1e23785c commit refs/heads/julia
+d4a102b545f8e5896335f49fc18e6dd9e80b3ed0 commit refs/heads/logo
+39e140f38368de279321366b2dc8cf51b5667d10 commit refs/heads/master
